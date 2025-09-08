@@ -1,4 +1,4 @@
-***🧠 Repositório de Inteligência Artificial***
+# 🧠 Repositório de Inteligência Artificial
 
 
 Este repositório contém o código do nosso Projeto de Inteligência Artificial, desenvolvido em colaboração por @LucasB712 e @gqteles. O objetivo é aplicar técnicas de IA para [objetivo principal do projeto, ex: "resolver problemas de classificação de dados", "analisar sentimentos em textos", "criar um sistema de recomendação", etc.].
